@@ -16,10 +16,7 @@ The Open Weather Map data is visualized in a notebook (weather_data.ipynb) using
    i) Simple SMTP method similar to [this](https://stackabuse.com/how-to-send-emails-with-gmail-using-python/).  
    ii) Professional services like Sendgrid, using their API. We choose this method.
 3. Sign Up for a free SendGrid account. Create a Sender Profile and Send the first email following [this guide](https://app.sendgrid.com/guide/integrate).
-4.
-'''
-pip install sendgrid
-   '''
+4. `pip install sendgrid`
 5. We verify the email sent via the API is delivered to our mailbox.
 
 ## Send weather report through email
