@@ -13,3 +13,9 @@ Review the Current Weather (Data guide)[https://openweathermap.org/current] to u
 
 4. Test the API in Postman:
 Send a request in Postman to retrieve real-time weather data for your city.
+
+## Visualize weather data
+The Open Weather Map data is visualized using Matplotlib library. The Pandas dataframe is savaed locally.
+
+## Email API
+1. 
